@@ -2,7 +2,7 @@
 
 The gem allows to add a standalone validator to Ruby classes.
 
-This is a part of collection of patterns, extracted from Rails projects - with a special focus on separation and composability of data validations.
+This is a part of collection of patterns extracted from Rails projects with a special focus on separation and composability of data validators.
 
 [![Gem Version][gem-badger]][gem]
 [![Build Status][travis-badger]][travis]
