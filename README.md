@@ -93,11 +93,11 @@ That is why neither `let`, nor `validates` are available outside of the block.
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
-[codeclimate-badger]: https://img.shields.io/codeclimate/github/nepalez/tram-examiner.svg?style=flat
-[codeclimate]: https://codeclimate.com/github/nepalez/tram-examiner
+[codeclimate-badger]: https://img.shields.io/codeclimate/github/tram-rb/tram-examiner.svg?style=flat
+[codeclimate]: https://codeclimate.com/github/tram-rb/tram-examiner
 [gem-badger]: https://img.shields.io/gem/v/tram-examiner.svg?style=flat
 [gem]: https://rubygems.org/gems/tram-examiner
-[gemnasium-badger]: https://img.shields.io/gemnasium/nepalez/tram-examiner.svg?style=flat
-[gemnasium]: https://gemnasium.com/nepalez/tram-examiner
-[travis-badger]: https://img.shields.io/travis/nepalez/tram-examiner/master.svg?style=flat
-[travis]: https://travis-ci.org/nepalez/tram-examiner
+[gemnasium-badger]: https://img.shields.io/gemnasium/tram-rb/tram-examiner.svg?style=flat
+[gemnasium]: https://gemnasium.com/tram-rb/tram-examiner
+[travis-badger]: https://img.shields.io/travis/tram-rb/tram-examiner/master.svg?style=flat
+[travis]: https://travis-ci.org/tram-rb/tram-examiner
