@@ -1,0 +1,38 @@
+---
+AllCops:
+  DisplayCopNames:    true
+  DisplayStyleGuide:  true
+  StyleGuideCopsOnly: true
+  TargetRubyVersion:  2.3
+
+Style/CaseEquality:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/FileName:
+  Exclude:
+    - 'lib/tram-examiner.rb'
+
+Style/LambdaCall:
+  Enabled: false
+
+Style/MethodMissing:
+  Enabled: false
+
+Style/MultilineMethodCallIndentation:
+  Exclude:
+    - spec/**.rb
+
+Style/NumericPredicate:
+  Enabled: false
+
+Style/RaiseArgs:
+  Enabled: false
+
+Style/RescueModifier:
+  Enabled: false
+
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
