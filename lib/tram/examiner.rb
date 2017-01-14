@@ -11,9 +11,6 @@ module Tram
       end
 
       def inherited(klass)
-p self
-p examiner
-p klass
         new_examiner = Class.new(examiner).tap { |exam| exam.subject(klass) }
         klass.instance_variable_set :@examiner, new_examiner
       end
